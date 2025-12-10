@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Train FRQI + Variational Quantum Classifier using PennyLane + PyTorch.
-Saves metrics, plots, circuit statistics, predictions, and weights.
-"""
 import os
 import time
 import json
