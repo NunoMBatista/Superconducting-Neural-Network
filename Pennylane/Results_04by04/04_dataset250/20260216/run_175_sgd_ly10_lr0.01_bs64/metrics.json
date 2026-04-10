@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.5526315789473685,
+  "precision": 0.5384615384615384,
+  "recall": 0.7368421052631579,
+  "f1_score": 0.6222222222222222,
+  "auc": 0.7562326869806094,
+  "training_time_sec": 4035.9522109031677,
+  "epochs_completed": 7672,
+  "config": {
+    "num_layers": 10,
+    "lr": 0.01,
+    "batch_size": 64,
+    "opt_name": "sgd",
+    "img_size": 4
+  }
+}

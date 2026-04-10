@@ -1,0 +1,864 @@
+
+>>> Config 1/72: run_0_ly3_lr0.001_bs16
+    Epoch 100/1000 - Loss: 0.692845
+    Epoch 200/1000 - Loss: 0.692491
+    Epoch 300/1000 - Loss: 0.692176
+    Epoch 400/1000 - Loss: 0.691905
+    Epoch 500/1000 - Loss: 0.691688
+    Epoch 600/1000 - Loss: 0.691534
+    Epoch 700/1000 - Loss: 0.691423
+    Epoch 800/1000 - Loss: 0.691375
+    Epoch 900/1000 - Loss: 0.691351
+    Epoch 1000/1000 - Loss: 0.691341
+
+>>> Config 2/72: run_1_ly3_lr0.001_bs32
+    Epoch 100/1000 - Loss: 0.692950
+    Epoch 200/1000 - Loss: 0.692721
+    Epoch 300/1000 - Loss: 0.692512
+    Epoch 400/1000 - Loss: 0.692330
+    Epoch 500/1000 - Loss: 0.692192
+    Epoch 600/1000 - Loss: 0.692083
+    Epoch 700/1000 - Loss: 0.692014
+    Epoch 800/1000 - Loss: 0.691971
+    Epoch 900/1000 - Loss: 0.691964
+    Epoch 1000/1000 - Loss: 0.691952
+
+>>> Config 3/72: run_2_ly3_lr0.001_bs64
+    Epoch 100/1000 - Loss: 0.693021
+    Epoch 200/1000 - Loss: 0.692876
+    Epoch 300/1000 - Loss: 0.692735
+    Epoch 400/1000 - Loss: 0.692621
+    Epoch 500/1000 - Loss: 0.692530
+    Epoch 600/1000 - Loss: 0.692465
+    Epoch 700/1000 - Loss: 0.692417
+    Epoch 800/1000 - Loss: 0.692395
+    Epoch 900/1000 - Loss: 0.692389
+    Epoch 1000/1000 - Loss: 0.692387
+
+>>> Config 4/72: run_3_ly3_lr0.01_bs16
+    Epoch 100/1000 - Loss: 0.689854
+    Epoch 200/1000 - Loss: 0.686785
+    Epoch 300/1000 - Loss: 0.684272
+    Epoch 400/1000 - Loss: 0.681910
+    Epoch 500/1000 - Loss: 0.680039
+    Epoch 600/1000 - Loss: 0.678217
+    Epoch 700/1000 - Loss: 0.676958
+    Epoch 800/1000 - Loss: 0.676308
+    Epoch 900/1000 - Loss: 0.676005
+    Epoch 1000/1000 - Loss: 0.675812
+
+>>> Config 5/72: run_4_ly3_lr0.01_bs32
+    Epoch 100/1000 - Loss: 0.690768
+    Epoch 200/1000 - Loss: 0.688540
+    Epoch 300/1000 - Loss: 0.686444
+    Epoch 400/1000 - Loss: 0.684641
+    Epoch 500/1000 - Loss: 0.683114
+    Epoch 600/1000 - Loss: 0.681970
+    Epoch 700/1000 - Loss: 0.681040
+    Epoch 800/1000 - Loss: 0.680556
+    Epoch 900/1000 - Loss: 0.680353
+    Epoch 1000/1000 - Loss: 0.680235
+
+>>> Config 6/72: run_5_ly3_lr0.01_bs64
+    Epoch 100/1000 - Loss: 0.691527
+    Epoch 200/1000 - Loss: 0.690026
+    Epoch 300/1000 - Loss: 0.688659
+    Epoch 400/1000 - Loss: 0.687493
+    Epoch 500/1000 - Loss: 0.686516
+    Epoch 600/1000 - Loss: 0.685736
+    Epoch 700/1000 - Loss: 0.685260
+    Epoch 800/1000 - Loss: 0.684957
+    Epoch 900/1000 - Loss: 0.684819
+    Epoch 1000/1000 - Loss: 0.684854
+
+>>> Config 7/72: run_6_ly3_lr0.05_bs16
+    Epoch 100/1000 - Loss: 0.693255
+    Epoch 200/1000 - Loss: 0.693037
+    Epoch 300/1000 - Loss: 0.691033
+    Epoch 400/1000 - Loss: 0.691235
+    Epoch 500/1000 - Loss: 0.684814
+    Epoch 600/1000 - Loss: 0.680076
+    Epoch 700/1000 - Loss: 0.676573
+    Epoch 800/1000 - Loss: 0.674871
+    Epoch 900/1000 - Loss: 0.673174
+    Epoch 1000/1000 - Loss: 0.672709
+
+>>> Config 8/72: run_7_ly3_lr0.05_bs32
+    Epoch 100/1000 - Loss: 0.691877
+    Epoch 200/1000 - Loss: 0.690108
+    Epoch 300/1000 - Loss: 0.682922
+    Epoch 400/1000 - Loss: 0.678224
+    Epoch 500/1000 - Loss: 0.675027
+    Epoch 600/1000 - Loss: 0.669427
+    Epoch 700/1000 - Loss: 0.665669
+    Epoch 800/1000 - Loss: 0.665192
+    Epoch 900/1000 - Loss: 0.663683
+    Epoch 1000/1000 - Loss: 0.663377
+
+>>> Config 9/72: run_8_ly3_lr0.05_bs64
+    Epoch 100/1000 - Loss: 0.686644
+    Epoch 200/1000 - Loss: 0.680864
+    Epoch 300/1000 - Loss: 0.675862
+    Epoch 400/1000 - Loss: 0.673509
+    Epoch 500/1000 - Loss: 0.668561
+    Epoch 600/1000 - Loss: 0.664199
+    Epoch 700/1000 - Loss: 0.662609
+    Epoch 800/1000 - Loss: 0.661213
+    Epoch 900/1000 - Loss: 0.660651
+    Epoch 1000/1000 - Loss: 0.660515
+
+>>> Config 10/72: run_9_ly3_lr0.1_bs16
+    Epoch 100/1000 - Loss: 0.693081
+    Epoch 200/1000 - Loss: 0.693365
+    Epoch 300/1000 - Loss: 0.693199
+    Epoch 400/1000 - Loss: 0.693047
+    Epoch 500/1000 - Loss: 0.693816
+    Epoch 600/1000 - Loss: 0.691691
+    Epoch 700/1000 - Loss: 0.688196
+    Epoch 800/1000 - Loss: 0.681823
+    Epoch 900/1000 - Loss: 0.679195
+    Epoch 1000/1000 - Loss: 0.678484
+
+>>> Config 11/72: run_10_ly3_lr0.1_bs32
+    Epoch 100/1000 - Loss: 0.692998
+    Epoch 200/1000 - Loss: 0.692705
+    Epoch 300/1000 - Loss: 0.693835
+    Epoch 400/1000 - Loss: 0.691195
+    Epoch 500/1000 - Loss: 0.693398
+    Epoch 600/1000 - Loss: 0.685912
+    Epoch 700/1000 - Loss: 0.681161
+    Epoch 800/1000 - Loss: 0.676465
+    Epoch 900/1000 - Loss: 0.675043
+    Epoch 1000/1000 - Loss: 0.674678
+
+>>> Config 12/72: run_11_ly3_lr0.1_bs64
+    Epoch 100/1000 - Loss: 0.693379
+    Epoch 200/1000 - Loss: 0.692262
+    Epoch 300/1000 - Loss: 0.691717
+    Epoch 400/1000 - Loss: 0.687020
+    Epoch 500/1000 - Loss: 0.683981
+    Epoch 600/1000 - Loss: 0.676156
+    Epoch 700/1000 - Loss: 0.672575
+    Epoch 800/1000 - Loss: 0.671590
+    Epoch 900/1000 - Loss: 0.670223
+    Epoch 1000/1000 - Loss: 0.669900
+
+>>> Config 13/72: run_12_ly5_lr0.001_bs16
+    Epoch 100/1000 - Loss: 0.692682
+    Epoch 200/1000 - Loss: 0.692174
+    Epoch 300/1000 - Loss: 0.691681
+    Epoch 400/1000 - Loss: 0.691251
+    Epoch 500/1000 - Loss: 0.690919
+    Epoch 600/1000 - Loss: 0.690622
+    Epoch 700/1000 - Loss: 0.690481
+    Epoch 800/1000 - Loss: 0.690375
+    Epoch 900/1000 - Loss: 0.690321
+    Epoch 1000/1000 - Loss: 0.690322
+
+>>> Config 14/72: run_13_ly5_lr0.001_bs32
+    Epoch 100/1000 - Loss: 0.692840
+    Epoch 200/1000 - Loss: 0.692509
+    Epoch 300/1000 - Loss: 0.692193
+    Epoch 400/1000 - Loss: 0.691915
+    Epoch 500/1000 - Loss: 0.691696
+    Epoch 600/1000 - Loss: 0.691533
+    Epoch 700/1000 - Loss: 0.691410
+    Epoch 800/1000 - Loss: 0.691357
+    Epoch 900/1000 - Loss: 0.691323
+    Epoch 1000/1000 - Loss: 0.691325
+
+>>> Config 15/72: run_14_ly5_lr0.001_bs64
+    Epoch 100/1000 - Loss: 0.692954
+    Epoch 200/1000 - Loss: 0.692734
+    Epoch 300/1000 - Loss: 0.692536
+    Epoch 400/1000 - Loss: 0.692371
+    Epoch 500/1000 - Loss: 0.692239
+    Epoch 600/1000 - Loss: 0.692134
+    Epoch 700/1000 - Loss: 0.692073
+    Epoch 800/1000 - Loss: 0.692035
+    Epoch 900/1000 - Loss: 0.692018
+    Epoch 1000/1000 - Loss: 0.692010
+
+>>> Config 16/72: run_15_ly5_lr0.01_bs16
+    Epoch 100/1000 - Loss: 0.688969
+    Epoch 200/1000 - Loss: 0.684258
+    Epoch 300/1000 - Loss: 0.679994
+    Epoch 400/1000 - Loss: 0.676225
+    Epoch 500/1000 - Loss: 0.673356
+    Epoch 600/1000 - Loss: 0.671467
+    Epoch 700/1000 - Loss: 0.669961
+    Epoch 800/1000 - Loss: 0.668904
+    Epoch 900/1000 - Loss: 0.668399
+    Epoch 1000/1000 - Loss: 0.668244
+
+>>> Config 17/72: run_16_ly5_lr0.01_bs32
+    Epoch 100/1000 - Loss: 0.690490
+    Epoch 200/1000 - Loss: 0.686631
+    Epoch 300/1000 - Loss: 0.683408
+    Epoch 400/1000 - Loss: 0.680547
+    Epoch 500/1000 - Loss: 0.678256
+    Epoch 600/1000 - Loss: 0.676838
+    Epoch 700/1000 - Loss: 0.675643
+    Epoch 800/1000 - Loss: 0.675096
+    Epoch 900/1000 - Loss: 0.674811
+    Epoch 1000/1000 - Loss: 0.674806
+
+>>> Config 18/72: run_17_ly5_lr0.01_bs64
+    Epoch 100/1000 - Loss: 0.690952
+    Epoch 200/1000 - Loss: 0.688811
+    Epoch 300/1000 - Loss: 0.686825
+    Epoch 400/1000 - Loss: 0.685170
+    Epoch 500/1000 - Loss: 0.683865
+    Epoch 600/1000 - Loss: 0.682954
+    Epoch 700/1000 - Loss: 0.682298
+    Epoch 800/1000 - Loss: 0.681983
+    Epoch 900/1000 - Loss: 0.681814
+    Epoch 1000/1000 - Loss: 0.681798
+
+>>> Config 19/72: run_18_ly5_lr0.05_bs16
+    Epoch 100/1000 - Loss: 0.693458
+    Epoch 200/1000 - Loss: 0.691839
+    Epoch 300/1000 - Loss: 0.687825
+    Epoch 400/1000 - Loss: 0.683449
+    Epoch 500/1000 - Loss: 0.683354
+    Epoch 600/1000 - Loss: 0.674586
+    Epoch 700/1000 - Loss: 0.664868
+    Epoch 800/1000 - Loss: 0.658513
+    Epoch 900/1000 - Loss: 0.656951
+    Epoch 1000/1000 - Loss: 0.655761
+
+>>> Config 20/72: run_19_ly5_lr0.05_bs32
+    Epoch 100/1000 - Loss: 0.692705
+    Epoch 200/1000 - Loss: 0.691228
+    Epoch 300/1000 - Loss: 0.682760
+    Epoch 400/1000 - Loss: 0.675714
+    Epoch 500/1000 - Loss: 0.665730
+    Epoch 600/1000 - Loss: 0.660659
+    Epoch 700/1000 - Loss: 0.655782
+    Epoch 800/1000 - Loss: 0.653433
+    Epoch 900/1000 - Loss: 0.652693
+    Epoch 1000/1000 - Loss: 0.651725
+
+>>> Config 21/72: run_20_ly5_lr0.05_bs64
+    Epoch 100/1000 - Loss: 0.685704
+    Epoch 200/1000 - Loss: 0.675403
+    Epoch 300/1000 - Loss: 0.669975
+    Epoch 400/1000 - Loss: 0.664755
+    Epoch 500/1000 - Loss: 0.658701
+    Epoch 600/1000 - Loss: 0.654465
+    Epoch 700/1000 - Loss: 0.651711
+    Epoch 800/1000 - Loss: 0.650189
+    Epoch 900/1000 - Loss: 0.649466
+    Epoch 1000/1000 - Loss: 0.649305
+
+>>> Config 22/72: run_21_ly5_lr0.1_bs16
+    Epoch 100/1000 - Loss: 0.693021
+    Epoch 200/1000 - Loss: 0.692500
+    Epoch 300/1000 - Loss: 0.693313
+    Epoch 400/1000 - Loss: 0.693306
+    Epoch 500/1000 - Loss: 0.692991
+    Epoch 600/1000 - Loss: 0.693608
+    Epoch 700/1000 - Loss: 0.677573
+    Epoch 800/1000 - Loss: 0.669896
+    Epoch 900/1000 - Loss: 0.666473
+    Epoch 1000/1000 - Loss: 0.665310
+
+>>> Config 23/72: run_22_ly5_lr0.1_bs32
+    Epoch 100/1000 - Loss: 0.692013
+    Epoch 200/1000 - Loss: 0.692813
+    Epoch 300/1000 - Loss: 0.692162
+    Epoch 400/1000 - Loss: 0.689545
+    Epoch 500/1000 - Loss: 0.687369
+    Epoch 600/1000 - Loss: 0.679390
+    Epoch 700/1000 - Loss: 0.668440
+    Epoch 800/1000 - Loss: 0.661957
+    Epoch 900/1000 - Loss: 0.659320
+    Epoch 1000/1000 - Loss: 0.657720
+
+>>> Config 24/72: run_23_ly5_lr0.1_bs64
+    Epoch 100/1000 - Loss: 0.693319
+    Epoch 200/1000 - Loss: 0.693532
+    Epoch 300/1000 - Loss: 0.688805
+    Epoch 400/1000 - Loss: 0.681592
+    Epoch 500/1000 - Loss: 0.674991
+    Epoch 600/1000 - Loss: 0.665483
+    Epoch 700/1000 - Loss: 0.663319
+    Epoch 800/1000 - Loss: 0.657017
+    Epoch 900/1000 - Loss: 0.655637
+    Epoch 1000/1000 - Loss: 0.655278
+
+>>> Config 25/72: run_24_ly7_lr0.001_bs16
+    Epoch 100/1000 - Loss: 0.692622
+    Epoch 200/1000 - Loss: 0.692042
+    Epoch 300/1000 - Loss: 0.691503
+    Epoch 400/1000 - Loss: 0.691055
+    Epoch 500/1000 - Loss: 0.690673
+    Epoch 600/1000 - Loss: 0.690403
+    Epoch 700/1000 - Loss: 0.690224
+    Epoch 800/1000 - Loss: 0.690131
+    Epoch 900/1000 - Loss: 0.690065
+    Epoch 1000/1000 - Loss: 0.690041
+
+>>> Config 26/72: run_25_ly7_lr0.001_bs32
+    Epoch 100/1000 - Loss: 0.692815
+    Epoch 200/1000 - Loss: 0.692428
+    Epoch 300/1000 - Loss: 0.692074
+    Epoch 400/1000 - Loss: 0.691776
+    Epoch 500/1000 - Loss: 0.691547
+    Epoch 600/1000 - Loss: 0.691358
+    Epoch 700/1000 - Loss: 0.691243
+    Epoch 800/1000 - Loss: 0.691179
+    Epoch 900/1000 - Loss: 0.691165
+    Epoch 1000/1000 - Loss: 0.691153
+
+>>> Config 27/72: run_26_ly7_lr0.001_bs64
+    Epoch 100/1000 - Loss: 0.692931
+    Epoch 200/1000 - Loss: 0.692679
+    Epoch 300/1000 - Loss: 0.692451
+    Epoch 400/1000 - Loss: 0.692260
+    Epoch 500/1000 - Loss: 0.692107
+    Epoch 600/1000 - Loss: 0.691999
+    Epoch 700/1000 - Loss: 0.691917
+    Epoch 800/1000 - Loss: 0.691883
+    Epoch 900/1000 - Loss: 0.691872
+    Epoch 1000/1000 - Loss: 0.691857
+
+>>> Config 28/72: run_27_ly7_lr0.01_bs16
+    Epoch 100/1000 - Loss: 0.687762
+    Epoch 200/1000 - Loss: 0.682512
+    Epoch 300/1000 - Loss: 0.677772
+    Epoch 400/1000 - Loss: 0.674262
+    Epoch 500/1000 - Loss: 0.670765
+    Epoch 600/1000 - Loss: 0.668073
+    Epoch 700/1000 - Loss: 0.666359
+    Epoch 800/1000 - Loss: 0.664916
+    Epoch 900/1000 - Loss: 0.664583
+    Epoch 1000/1000 - Loss: 0.664424
+
+>>> Config 29/72: run_28_ly7_lr0.01_bs32
+    Epoch 100/1000 - Loss: 0.689576
+    Epoch 200/1000 - Loss: 0.686138
+    Epoch 300/1000 - Loss: 0.682681
+    Epoch 400/1000 - Loss: 0.679616
+    Epoch 500/1000 - Loss: 0.677352
+    Epoch 600/1000 - Loss: 0.676048
+    Epoch 700/1000 - Loss: 0.675016
+    Epoch 800/1000 - Loss: 0.674323
+    Epoch 900/1000 - Loss: 0.673818
+    Epoch 1000/1000 - Loss: 0.673634
+
+>>> Config 30/72: run_29_ly7_lr0.01_bs64
+    Epoch 100/1000 - Loss: 0.690633
+    Epoch 200/1000 - Loss: 0.688123
+    Epoch 300/1000 - Loss: 0.685858
+    Epoch 400/1000 - Loss: 0.683856
+    Epoch 500/1000 - Loss: 0.682560
+    Epoch 600/1000 - Loss: 0.681368
+    Epoch 700/1000 - Loss: 0.680420
+    Epoch 800/1000 - Loss: 0.679938
+    Epoch 900/1000 - Loss: 0.679691
+    Epoch 1000/1000 - Loss: 0.679772
+
+>>> Config 31/72: run_30_ly7_lr0.05_bs16
+    Epoch 100/1000 - Loss: 0.693215
+    Epoch 200/1000 - Loss: 0.693521
+    Epoch 300/1000 - Loss: 0.693517
+    Epoch 400/1000 - Loss: 0.693400
+    Epoch 500/1000 - Loss: 0.689854
+    Epoch 600/1000 - Loss: 0.683918
+    Epoch 700/1000 - Loss: 0.673966
+    Epoch 800/1000 - Loss: 0.668773
+    Epoch 900/1000 - Loss: 0.666307
+    Epoch 1000/1000 - Loss: 0.665630
+
+>>> Config 32/72: run_31_ly7_lr0.05_bs32
+    Epoch 100/1000 - Loss: 0.693367
+    Epoch 200/1000 - Loss: 0.692937
+    Epoch 300/1000 - Loss: 0.691050
+    Epoch 400/1000 - Loss: 0.693964
+    Epoch 500/1000 - Loss: 0.678113
+    Epoch 600/1000 - Loss: 0.669436
+    Epoch 700/1000 - Loss: 0.664709
+    Epoch 800/1000 - Loss: 0.659938
+    Epoch 900/1000 - Loss: 0.658280
+    Epoch 1000/1000 - Loss: 0.657604
+
+>>> Config 33/72: run_32_ly7_lr0.05_bs64
+    Epoch 100/1000 - Loss: 0.691823
+    Epoch 200/1000 - Loss: 0.689645
+    Epoch 300/1000 - Loss: 0.682411
+    Epoch 400/1000 - Loss: 0.681839
+    Epoch 500/1000 - Loss: 0.671418
+    Epoch 600/1000 - Loss: 0.661829
+    Epoch 700/1000 - Loss: 0.657314
+    Epoch 800/1000 - Loss: 0.655591
+    Epoch 900/1000 - Loss: 0.654761
+    Epoch 1000/1000 - Loss: 0.654701
+
+>>> Config 34/72: run_33_ly7_lr0.1_bs16
+    Epoch 100/1000 - Loss: 0.693441
+    Epoch 200/1000 - Loss: 0.692999
+    Epoch 300/1000 - Loss: 0.693133
+    Epoch 400/1000 - Loss: 0.693534
+    Epoch 500/1000 - Loss: 0.692922
+    Epoch 600/1000 - Loss: 0.693749
+    Epoch 700/1000 - Loss: 0.686699
+    Epoch 800/1000 - Loss: 0.677338
+    Epoch 900/1000 - Loss: 0.673430
+    Epoch 1000/1000 - Loss: 0.672338
+
+>>> Config 35/72: run_34_ly7_lr0.1_bs32
+    Epoch 100/1000 - Loss: 0.693183
+    Epoch 200/1000 - Loss: 0.693085
+    Epoch 300/1000 - Loss: 0.693098
+    Epoch 400/1000 - Loss: 0.692751
+    Epoch 500/1000 - Loss: 0.691356
+    Epoch 600/1000 - Loss: 0.692243
+    Epoch 700/1000 - Loss: 0.679114
+    Epoch 800/1000 - Loss: 0.674438
+    Epoch 900/1000 - Loss: 0.670157
+    Epoch 1000/1000 - Loss: 0.669470
+
+>>> Config 36/72: run_35_ly7_lr0.1_bs64
+    Epoch 100/1000 - Loss: 0.693248
+    Epoch 200/1000 - Loss: 0.693110
+    Epoch 300/1000 - Loss: 0.692987
+    Epoch 400/1000 - Loss: 0.694111
+    Epoch 500/1000 - Loss: 0.693277
+    Epoch 600/1000 - Loss: 0.684320
+    Epoch 700/1000 - Loss: 0.677842
+    Epoch 800/1000 - Loss: 0.672815
+    Epoch 900/1000 - Loss: 0.670674
+    Epoch 1000/1000 - Loss: 0.670132
+
+>>> Config 37/72: run_36_ly10_lr0.001_bs16
+    Epoch 100/1000 - Loss: 0.692449
+    Epoch 200/1000 - Loss: 0.691646
+    Epoch 300/1000 - Loss: 0.690892
+    Epoch 400/1000 - Loss: 0.690203
+    Epoch 500/1000 - Loss: 0.689667
+    Epoch 600/1000 - Loss: 0.689290
+    Epoch 700/1000 - Loss: 0.689020
+    Epoch 800/1000 - Loss: 0.688855
+    Epoch 900/1000 - Loss: 0.688796
+    Epoch 1000/1000 - Loss: 0.688789
+
+>>> Config 38/72: run_37_ly10_lr0.001_bs32
+    Epoch 100/1000 - Loss: 0.692712
+    Epoch 200/1000 - Loss: 0.692227
+    Epoch 300/1000 - Loss: 0.691782
+    Epoch 400/1000 - Loss: 0.691362
+    Epoch 500/1000 - Loss: 0.691061
+    Epoch 600/1000 - Loss: 0.690813
+    Epoch 700/1000 - Loss: 0.690654
+    Epoch 800/1000 - Loss: 0.690573
+    Epoch 900/1000 - Loss: 0.690518
+    Epoch 1000/1000 - Loss: 0.690506
+
+>>> Config 39/72: run_38_ly10_lr0.001_bs64
+    Epoch 100/1000 - Loss: 0.692860
+    Epoch 200/1000 - Loss: 0.692525
+    Epoch 300/1000 - Loss: 0.692203
+    Epoch 400/1000 - Loss: 0.691933
+    Epoch 500/1000 - Loss: 0.691708
+    Epoch 600/1000 - Loss: 0.691571
+    Epoch 700/1000 - Loss: 0.691456
+    Epoch 800/1000 - Loss: 0.691419
+    Epoch 900/1000 - Loss: 0.691394
+    Epoch 1000/1000 - Loss: 0.691386
+
+>>> Config 40/72: run_39_ly10_lr0.01_bs16
+    Epoch 100/1000 - Loss: 0.687449
+    Epoch 200/1000 - Loss: 0.682956
+    Epoch 300/1000 - Loss: 0.673850
+    Epoch 400/1000 - Loss: 0.668189
+    Epoch 500/1000 - Loss: 0.664383
+    Epoch 600/1000 - Loss: 0.660514
+    Epoch 700/1000 - Loss: 0.658705
+    Epoch 800/1000 - Loss: 0.657136
+    Epoch 900/1000 - Loss: 0.656429
+    Epoch 1000/1000 - Loss: 0.656039
+
+>>> Config 41/72: run_40_ly10_lr0.01_bs32
+    Epoch 100/1000 - Loss: 0.688306
+    Epoch 200/1000 - Loss: 0.683262
+    Epoch 300/1000 - Loss: 0.678702
+    Epoch 400/1000 - Loss: 0.675727
+    Epoch 500/1000 - Loss: 0.672821
+    Epoch 600/1000 - Loss: 0.670303
+    Epoch 700/1000 - Loss: 0.668596
+    Epoch 800/1000 - Loss: 0.667823
+    Epoch 900/1000 - Loss: 0.667585
+    Epoch 1000/1000 - Loss: 0.667554
+
+>>> Config 42/72: run_41_ly10_lr0.01_bs64
+    Epoch 100/1000 - Loss: 0.690025
+    Epoch 200/1000 - Loss: 0.686088
+    Epoch 300/1000 - Loss: 0.682928
+    Epoch 400/1000 - Loss: 0.680420
+    Epoch 500/1000 - Loss: 0.678116
+    Epoch 600/1000 - Loss: 0.676716
+    Epoch 700/1000 - Loss: 0.675636
+    Epoch 800/1000 - Loss: 0.675023
+    Epoch 900/1000 - Loss: 0.674736
+    Epoch 1000/1000 - Loss: 0.674763
+
+>>> Config 43/72: run_42_ly10_lr0.05_bs16
+    Epoch 100/1000 - Loss: 0.693172
+    Epoch 200/1000 - Loss: 0.692968
+    Epoch 300/1000 - Loss: 0.691913
+    Epoch 400/1000 - Loss: 0.692638
+    Epoch 500/1000 - Loss: 0.691547
+    Epoch 600/1000 - Loss: 0.692884
+    Epoch 700/1000 - Loss: 0.679367
+    Epoch 800/1000 - Loss: 0.673786
+    Epoch 900/1000 - Loss: 0.671228
+    Epoch 1000/1000 - Loss: 0.670113
+
+>>> Config 44/72: run_43_ly10_lr0.05_bs32
+    Epoch 100/1000 - Loss: 0.692907
+    Epoch 200/1000 - Loss: 0.693199
+    Epoch 300/1000 - Loss: 0.692804
+    Epoch 400/1000 - Loss: 0.692222
+    Epoch 500/1000 - Loss: 0.688682
+    Epoch 600/1000 - Loss: 0.680389
+    Epoch 700/1000 - Loss: 0.669177
+    Epoch 800/1000 - Loss: 0.664344
+    Epoch 900/1000 - Loss: 0.662827
+    Epoch 1000/1000 - Loss: 0.662130
+
+>>> Config 45/72: run_44_ly10_lr0.05_bs64
+    Epoch 100/1000 - Loss: 0.692369
+    Epoch 200/1000 - Loss: 0.692721
+    Epoch 300/1000 - Loss: 0.692557
+    Epoch 400/1000 - Loss: 0.688290
+    Epoch 500/1000 - Loss: 0.680398
+    Epoch 600/1000 - Loss: 0.667797
+    Epoch 700/1000 - Loss: 0.662563
+    Epoch 800/1000 - Loss: 0.659574
+    Epoch 900/1000 - Loss: 0.657947
+    Epoch 1000/1000 - Loss: 0.657671
+
+>>> Config 46/72: run_45_ly10_lr0.1_bs16
+    Epoch 100/1000 - Loss: 0.693183
+    Epoch 200/1000 - Loss: 0.693281
+    Epoch 300/1000 - Loss: 0.692620
+    Epoch 400/1000 - Loss: 0.692412
+    Epoch 500/1000 - Loss: 0.693892
+    Epoch 600/1000 - Loss: 0.692988
+    Epoch 700/1000 - Loss: 0.693119
+    Epoch 800/1000 - Loss: 0.679290
+    Epoch 900/1000 - Loss: 0.673643
+    Epoch 1000/1000 - Loss: 0.671713
+
+>>> Config 47/72: run_46_ly10_lr0.1_bs32
+    Epoch 100/1000 - Loss: 0.693100
+    Epoch 200/1000 - Loss: 0.692949
+    Epoch 300/1000 - Loss: 0.693555
+    Epoch 400/1000 - Loss: 0.693487
+    Epoch 500/1000 - Loss: 0.694325
+    Epoch 600/1000 - Loss: 0.689695
+    Epoch 700/1000 - Loss: 0.688079
+    Epoch 800/1000 - Loss: 0.677281
+    Epoch 900/1000 - Loss: 0.672284
+    Epoch 1000/1000 - Loss: 0.671203
+
+>>> Config 48/72: run_47_ly10_lr0.1_bs64
+    Epoch 100/1000 - Loss: 0.693316
+    Epoch 200/1000 - Loss: 0.692982
+    Epoch 300/1000 - Loss: 0.693652
+    Epoch 400/1000 - Loss: 0.692507
+    Epoch 500/1000 - Loss: 0.690226
+    Epoch 600/1000 - Loss: 0.687992
+    Epoch 700/1000 - Loss: 0.676636
+    Epoch 800/1000 - Loss: 0.669732
+    Epoch 900/1000 - Loss: 0.666014
+    Epoch 1000/1000 - Loss: 0.665323
+
+>>> Config 49/72: run_48_ly15_lr0.001_bs16
+    Epoch 100/1000 - Loss: 0.692334
+    Epoch 200/1000 - Loss: 0.691383
+    Epoch 300/1000 - Loss: 0.690496
+    Epoch 400/1000 - Loss: 0.689731
+    Epoch 500/1000 - Loss: 0.689075
+    Epoch 600/1000 - Loss: 0.688647
+    Epoch 700/1000 - Loss: 0.688337
+    Epoch 800/1000 - Loss: 0.688151
+    Epoch 900/1000 - Loss: 0.688066
+    Epoch 1000/1000 - Loss: 0.688044
+
+>>> Config 50/72: run_49_ly15_lr0.001_bs32
+    Epoch 100/1000 - Loss: 0.692651
+    Epoch 200/1000 - Loss: 0.692052
+    Epoch 300/1000 - Loss: 0.691495
+    Epoch 400/1000 - Loss: 0.691008
+    Epoch 500/1000 - Loss: 0.690616
+    Epoch 600/1000 - Loss: 0.690345
+    Epoch 700/1000 - Loss: 0.690163
+    Epoch 800/1000 - Loss: 0.690063
+    Epoch 900/1000 - Loss: 0.690018
+    Epoch 1000/1000 - Loss: 0.690010
+
+>>> Config 51/72: run_50_ly15_lr0.001_bs64
+    Epoch 100/1000 - Loss: 0.692823
+    Epoch 200/1000 - Loss: 0.692423
+    Epoch 300/1000 - Loss: 0.692046
+    Epoch 400/1000 - Loss: 0.691733
+    Epoch 500/1000 - Loss: 0.691491
+    Epoch 600/1000 - Loss: 0.691291
+    Epoch 700/1000 - Loss: 0.691158
+    Epoch 800/1000 - Loss: 0.691104
+    Epoch 900/1000 - Loss: 0.691090
+    Epoch 1000/1000 - Loss: 0.691075
+
+>>> Config 52/72: run_51_ly15_lr0.01_bs16
+    Epoch 100/1000 - Loss: 0.689077
+    Epoch 200/1000 - Loss: 0.681530
+    Epoch 300/1000 - Loss: 0.672225
+    Epoch 400/1000 - Loss: 0.666909
+    Epoch 500/1000 - Loss: 0.661827
+    Epoch 600/1000 - Loss: 0.659021
+    Epoch 700/1000 - Loss: 0.655412
+    Epoch 800/1000 - Loss: 0.653751
+    Epoch 900/1000 - Loss: 0.653053
+    Epoch 1000/1000 - Loss: 0.652481
+
+>>> Config 53/72: run_52_ly15_lr0.01_bs32
+    Epoch 100/1000 - Loss: 0.688134
+    Epoch 200/1000 - Loss: 0.683906
+    Epoch 300/1000 - Loss: 0.675861
+    Epoch 400/1000 - Loss: 0.671743
+    Epoch 500/1000 - Loss: 0.668376
+    Epoch 600/1000 - Loss: 0.665334
+    Epoch 700/1000 - Loss: 0.663546
+    Epoch 800/1000 - Loss: 0.662725
+    Epoch 900/1000 - Loss: 0.662382
+    Epoch 1000/1000 - Loss: 0.662107
+
+>>> Config 54/72: run_53_ly15_lr0.01_bs64
+    Epoch 100/1000 - Loss: 0.689413
+    Epoch 200/1000 - Loss: 0.685651
+    Epoch 300/1000 - Loss: 0.681663
+    Epoch 400/1000 - Loss: 0.678983
+    Epoch 500/1000 - Loss: 0.676377
+    Epoch 600/1000 - Loss: 0.674480
+    Epoch 700/1000 - Loss: 0.673285
+    Epoch 800/1000 - Loss: 0.672481
+    Epoch 900/1000 - Loss: 0.672403
+    Epoch 1000/1000 - Loss: 0.672034
+
+>>> Config 55/72: run_54_ly15_lr0.05_bs16
+    Epoch 100/1000 - Loss: 0.693032
+    Epoch 200/1000 - Loss: 0.693091
+    Epoch 300/1000 - Loss: 0.693561
+    Epoch 400/1000 - Loss: 0.693319
+    Epoch 500/1000 - Loss: 0.692364
+    Epoch 600/1000 - Loss: 0.690477
+    Epoch 700/1000 - Loss: 0.683864
+    Epoch 800/1000 - Loss: 0.671580
+    Epoch 900/1000 - Loss: 0.668174
+    Epoch 1000/1000 - Loss: 0.667042
+
+>>> Config 56/72: run_55_ly15_lr0.05_bs32
+    Epoch 100/1000 - Loss: 0.693133
+    Epoch 200/1000 - Loss: 0.693416
+    Epoch 300/1000 - Loss: 0.692463
+    Epoch 400/1000 - Loss: 0.692502
+    Epoch 500/1000 - Loss: 0.690601
+    Epoch 600/1000 - Loss: 0.679407
+    Epoch 700/1000 - Loss: 0.669678
+    Epoch 800/1000 - Loss: 0.663260
+    Epoch 900/1000 - Loss: 0.660804
+    Epoch 1000/1000 - Loss: 0.660232
+
+>>> Config 57/72: run_56_ly15_lr0.05_bs64
+    Epoch 100/1000 - Loss: 0.692712
+    Epoch 200/1000 - Loss: 0.692266
+    Epoch 300/1000 - Loss: 0.691852
+    Epoch 400/1000 - Loss: 0.683866
+    Epoch 500/1000 - Loss: 0.683968
+    Epoch 600/1000 - Loss: 0.667836
+    Epoch 700/1000 - Loss: 0.662126
+    Epoch 800/1000 - Loss: 0.657831
+    Epoch 900/1000 - Loss: 0.656331
+    Epoch 1000/1000 - Loss: 0.656152
+
+>>> Config 58/72: run_57_ly15_lr0.1_bs16
+    Epoch 100/1000 - Loss: 0.693154
+    Epoch 200/1000 - Loss: 0.693292
+    Epoch 300/1000 - Loss: 0.693308
+    Epoch 400/1000 - Loss: 0.692711
+    Epoch 500/1000 - Loss: 0.692760
+    Epoch 600/1000 - Loss: 0.692377
+    Epoch 700/1000 - Loss: 0.692681
+    Epoch 800/1000 - Loss: 0.687449
+    Epoch 900/1000 - Loss: 0.677427
+    Epoch 1000/1000 - Loss: 0.674868
+
+>>> Config 59/72: run_58_ly15_lr0.1_bs32
+    Epoch 100/1000 - Loss: 0.693354
+    Epoch 200/1000 - Loss: 0.693324
+    Epoch 300/1000 - Loss: 0.693354
+    Epoch 400/1000 - Loss: 0.692741
+    Epoch 500/1000 - Loss: 0.693536
+    Epoch 600/1000 - Loss: 0.692568
+    Epoch 700/1000 - Loss: 0.692721
+    Epoch 800/1000 - Loss: 0.676644
+    Epoch 900/1000 - Loss: 0.671011
+    Epoch 1000/1000 - Loss: 0.669644
+
+>>> Config 60/72: run_59_ly15_lr0.1_bs64
+    Epoch 100/1000 - Loss: 0.692882
+    Epoch 200/1000 - Loss: 0.693167
+    Epoch 300/1000 - Loss: 0.692409
+    Epoch 400/1000 - Loss: 0.693015
+    Epoch 500/1000 - Loss: 0.693623
+    Epoch 600/1000 - Loss: 0.691835
+    Epoch 700/1000 - Loss: 0.680742
+    Epoch 800/1000 - Loss: 0.672385
+    Epoch 900/1000 - Loss: 0.668446
+    Epoch 1000/1000 - Loss: 0.667500
+
+>>> Config 61/72: run_60_ly20_lr0.001_bs16
+    Epoch 100/1000 - Loss: 0.692251
+    Epoch 200/1000 - Loss: 0.691245
+    Epoch 300/1000 - Loss: 0.690312
+    Epoch 400/1000 - Loss: 0.689449
+    Epoch 500/1000 - Loss: 0.688737
+    Epoch 600/1000 - Loss: 0.688203
+    Epoch 700/1000 - Loss: 0.687922
+    Epoch 800/1000 - Loss: 0.687735
+    Epoch 900/1000 - Loss: 0.687637
+    Epoch 1000/1000 - Loss: 0.687576
+
+>>> Config 62/72: run_61_ly20_lr0.001_bs32
+    Epoch 100/1000 - Loss: 0.692626
+    Epoch 200/1000 - Loss: 0.691985
+    Epoch 300/1000 - Loss: 0.691394
+    Epoch 400/1000 - Loss: 0.690869
+    Epoch 500/1000 - Loss: 0.690461
+    Epoch 600/1000 - Loss: 0.690141
+    Epoch 700/1000 - Loss: 0.689929
+    Epoch 800/1000 - Loss: 0.689834
+    Epoch 900/1000 - Loss: 0.689761
+    Epoch 1000/1000 - Loss: 0.689774
+
+>>> Config 63/72: run_62_ly20_lr0.001_bs64
+    Epoch 100/1000 - Loss: 0.692820
+    Epoch 200/1000 - Loss: 0.692395
+    Epoch 300/1000 - Loss: 0.691990
+    Epoch 400/1000 - Loss: 0.691664
+    Epoch 500/1000 - Loss: 0.691370
+    Epoch 600/1000 - Loss: 0.691176
+    Epoch 700/1000 - Loss: 0.691047
+    Epoch 800/1000 - Loss: 0.690964
+    Epoch 900/1000 - Loss: 0.690935
+    Epoch 1000/1000 - Loss: 0.690926
+
+>>> Config 64/72: run_63_ly20_lr0.01_bs16
+    Epoch 100/1000 - Loss: 0.692697
+    Epoch 200/1000 - Loss: 0.688762
+    Epoch 300/1000 - Loss: 0.684601
+    Epoch 400/1000 - Loss: 0.678153
+    Epoch 500/1000 - Loss: 0.672656
+    Epoch 600/1000 - Loss: 0.665846
+    Epoch 700/1000 - Loss: 0.661800
+    Epoch 800/1000 - Loss: 0.660057
+    Epoch 900/1000 - Loss: 0.658986
+    Epoch 1000/1000 - Loss: 0.658350
+
+>>> Config 65/72: run_64_ly20_lr0.01_bs32
+    Epoch 100/1000 - Loss: 0.689482
+    Epoch 200/1000 - Loss: 0.683320
+    Epoch 300/1000 - Loss: 0.676830
+    Epoch 400/1000 - Loss: 0.673132
+    Epoch 500/1000 - Loss: 0.668664
+    Epoch 600/1000 - Loss: 0.664532
+    Epoch 700/1000 - Loss: 0.662111
+    Epoch 800/1000 - Loss: 0.661039
+    Epoch 900/1000 - Loss: 0.660441
+    Epoch 1000/1000 - Loss: 0.660156
+
+>>> Config 66/72: run_65_ly20_lr0.01_bs64
+    Epoch 100/1000 - Loss: 0.689744
+    Epoch 200/1000 - Loss: 0.685555
+    Epoch 300/1000 - Loss: 0.680777
+    Epoch 400/1000 - Loss: 0.678356
+    Epoch 500/1000 - Loss: 0.675082
+    Epoch 600/1000 - Loss: 0.672919
+    Epoch 700/1000 - Loss: 0.671539
+    Epoch 800/1000 - Loss: 0.670806
+    Epoch 900/1000 - Loss: 0.670661
+    Epoch 1000/1000 - Loss: 0.670509
+
+>>> Config 67/72: run_66_ly20_lr0.05_bs16
+    Epoch 100/1000 - Loss: 0.693268
+    Epoch 200/1000 - Loss: 0.693239
+    Epoch 300/1000 - Loss: 0.692985
+    Epoch 400/1000 - Loss: 0.693006
+    Epoch 500/1000 - Loss: 0.692753
+    Epoch 600/1000 - Loss: 0.692327
+    Epoch 700/1000 - Loss: 0.686566
+    Epoch 800/1000 - Loss: 0.677762
+    Epoch 900/1000 - Loss: 0.673607
+    Epoch 1000/1000 - Loss: 0.672142
+
+>>> Config 68/72: run_67_ly20_lr0.05_bs32
+    Epoch 100/1000 - Loss: 0.693335
+    Epoch 200/1000 - Loss: 0.692819
+    Epoch 300/1000 - Loss: 0.693001
+    Epoch 400/1000 - Loss: 0.692834
+    Epoch 500/1000 - Loss: 0.692718
+    Epoch 600/1000 - Loss: 0.688411
+    Epoch 700/1000 - Loss: 0.681062
+    Epoch 800/1000 - Loss: 0.672653
+    Epoch 900/1000 - Loss: 0.669919
+    Epoch 1000/1000 - Loss: 0.668862
+
+>>> Config 69/72: run_68_ly20_lr0.05_bs64
+    Epoch 100/1000 - Loss: 0.693023
+    Epoch 200/1000 - Loss: 0.693231
+    Epoch 300/1000 - Loss: 0.691987
+    Epoch 400/1000 - Loss: 0.692275
+    Epoch 500/1000 - Loss: 0.691070
+    Epoch 600/1000 - Loss: 0.678600
+    Epoch 700/1000 - Loss: 0.676693
+    Epoch 800/1000 - Loss: 0.666988
+    Epoch 900/1000 - Loss: 0.664419
+    Epoch 1000/1000 - Loss: 0.663475
+
+>>> Config 70/72: run_69_ly20_lr0.1_bs16
+    Epoch 100/1000 - Loss: 0.692887
+    Epoch 200/1000 - Loss: 0.693069
+    Epoch 300/1000 - Loss: 0.692767
+    Epoch 400/1000 - Loss: 0.692657
+    Epoch 500/1000 - Loss: 0.692793
+    Epoch 600/1000 - Loss: 0.693606
+    Epoch 700/1000 - Loss: 0.693451
+    Epoch 800/1000 - Loss: 0.691416
+    Epoch 900/1000 - Loss: 0.680055
+    Epoch 1000/1000 - Loss: 0.677498
+
+>>> Config 71/72: run_70_ly20_lr0.1_bs32
+    Epoch 100/1000 - Loss: 0.692830
+    Epoch 200/1000 - Loss: 0.693236
+    Epoch 300/1000 - Loss: 0.693467
+    Epoch 400/1000 - Loss: 0.692413
+    Epoch 500/1000 - Loss: 0.692872
+    Epoch 600/1000 - Loss: 0.691733
+    Epoch 700/1000 - Loss: 0.692574
+    Epoch 800/1000 - Loss: 0.683373
+    Epoch 900/1000 - Loss: 0.674193
+    Epoch 1000/1000 - Loss: 0.672576
+
+>>> Config 72/72: run_71_ly20_lr0.1_bs64
+    Epoch 100/1000 - Loss: 0.693202
+    Epoch 200/1000 - Loss: 0.693121
+    Epoch 300/1000 - Loss: 0.693443
+    Epoch 400/1000 - Loss: 0.692574
+    Epoch 500/1000 - Loss: 0.692898
+    Epoch 600/1000 - Loss: 0.691825
+    Epoch 700/1000 - Loss: 0.690387
+    Epoch 800/1000 - Loss: 0.681432
+    Epoch 900/1000 - Loss: 0.673607
+    Epoch 1000/1000 - Loss: 0.672278

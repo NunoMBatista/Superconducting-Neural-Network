@@ -1,0 +1,576 @@
+Loaded train=174, val=36, test=38
+Torch CUDA: True
+Model device: cuda:0
+PennyLane device: Lightning GPU PennyLane plugin
+Short name: lightning.gpu
+Package: pennylane_lightning
+Plugin version: 0.36.0
+Author: Xanadu Inc.
+Wires: 11
+Shots: None
+Epoch 1/500: loss = 0.6931
+Epoch 2/500: loss = 0.6932
+Epoch 3/500: loss = 0.6928
+Epoch 4/500: loss = 0.6926
+Epoch 5/500: loss = 0.6924
+Epoch 6/500: loss = 0.6920
+Epoch 7/500: loss = 0.6910
+Epoch 8/500: loss = 0.6903
+Epoch 9/500: loss = 0.6895
+Epoch 10/500: loss = 0.6886
+  Eval → acc=0.528, f1=0.541, auc=0.519
+Epoch 11/500: loss = 0.6876
+Epoch 12/500: loss = 0.6866
+Epoch 13/500: loss = 0.6860
+Epoch 14/500: loss = 0.6851
+Epoch 15/500: loss = 0.6844
+Epoch 16/500: loss = 0.6834
+Epoch 17/500: loss = 0.6828
+Epoch 18/500: loss = 0.6838
+Epoch 19/500: loss = 0.6824
+Epoch 20/500: loss = 0.6810
+  Eval → acc=0.556, f1=0.500, auc=0.525
+Epoch 21/500: loss = 0.6801
+Epoch 22/500: loss = 0.6788
+Epoch 23/500: loss = 0.6784
+Epoch 24/500: loss = 0.6789
+Epoch 25/500: loss = 0.6765
+Epoch 26/500: loss = 0.6774
+Epoch 27/500: loss = 0.6752
+Epoch 28/500: loss = 0.6752
+Epoch 29/500: loss = 0.6740
+Epoch 30/500: loss = 0.6734
+  Eval → acc=0.444, f1=0.412, auc=0.463
+Epoch 31/500: loss = 0.6726
+Epoch 32/500: loss = 0.6742
+Epoch 33/500: loss = 0.6713
+Epoch 34/500: loss = 0.6724
+Epoch 35/500: loss = 0.6732
+Epoch 36/500: loss = 0.6704
+Epoch 37/500: loss = 0.6701
+Epoch 38/500: loss = 0.6680
+Epoch 39/500: loss = 0.6664
+Epoch 40/500: loss = 0.6656
+  Eval → acc=0.528, f1=0.514, auc=0.500
+Epoch 41/500: loss = 0.6665
+Epoch 42/500: loss = 0.6673
+Epoch 43/500: loss = 0.6662
+Epoch 44/500: loss = 0.6647
+Epoch 45/500: loss = 0.6628
+Epoch 46/500: loss = 0.6619
+Epoch 47/500: loss = 0.6611
+Epoch 48/500: loss = 0.6645
+Epoch 49/500: loss = 0.6612
+Epoch 50/500: loss = 0.6604
+  Eval → acc=0.472, f1=0.424, auc=0.451
+Epoch 51/500: loss = 0.6623
+Epoch 52/500: loss = 0.6608
+Epoch 53/500: loss = 0.6588
+Epoch 54/500: loss = 0.6580
+Epoch 55/500: loss = 0.6581
+Epoch 56/500: loss = 0.6569
+Epoch 57/500: loss = 0.6581
+Epoch 58/500: loss = 0.6598
+Epoch 59/500: loss = 0.6637
+Epoch 60/500: loss = 0.6575
+  Eval → acc=0.444, f1=0.474, auc=0.438
+Epoch 61/500: loss = 0.6625
+Epoch 62/500: loss = 0.6583
+Epoch 63/500: loss = 0.6548
+Epoch 64/500: loss = 0.6509
+Epoch 65/500: loss = 0.6520
+Epoch 66/500: loss = 0.6493
+Epoch 67/500: loss = 0.6481
+Epoch 68/500: loss = 0.6469
+Epoch 69/500: loss = 0.6475
+Epoch 70/500: loss = 0.6483
+  Eval → acc=0.583, f1=0.571, auc=0.568
+Epoch 71/500: loss = 0.6444
+Epoch 72/500: loss = 0.6474
+Epoch 73/500: loss = 0.6429
+Epoch 74/500: loss = 0.6442
+Epoch 75/500: loss = 0.6436
+Epoch 76/500: loss = 0.6406
+Epoch 77/500: loss = 0.6394
+Epoch 78/500: loss = 0.6400
+Epoch 79/500: loss = 0.6386
+Epoch 80/500: loss = 0.6369
+  Eval → acc=0.583, f1=0.615, auc=0.608
+Epoch 81/500: loss = 0.6372
+Epoch 82/500: loss = 0.6376
+Epoch 83/500: loss = 0.6349
+Epoch 84/500: loss = 0.6347
+Epoch 85/500: loss = 0.6341
+Epoch 86/500: loss = 0.6337
+Epoch 87/500: loss = 0.6314
+Epoch 88/500: loss = 0.6316
+Epoch 89/500: loss = 0.6306
+Epoch 90/500: loss = 0.6296
+  Eval → acc=0.639, f1=0.649, auc=0.627
+Epoch 91/500: loss = 0.6291
+Epoch 92/500: loss = 0.6287
+Epoch 93/500: loss = 0.6285
+Epoch 94/500: loss = 0.6268
+Epoch 95/500: loss = 0.6258
+Epoch 96/500: loss = 0.6267
+Epoch 97/500: loss = 0.6256
+Epoch 98/500: loss = 0.6275
+Epoch 99/500: loss = 0.6310
+Epoch 100/500: loss = 0.6357
+  Eval → acc=0.556, f1=0.556, auc=0.537
+Epoch 101/500: loss = 0.6279
+Epoch 102/500: loss = 0.6250
+Epoch 103/500: loss = 0.6262
+Epoch 104/500: loss = 0.6243
+Epoch 105/500: loss = 0.6212
+Epoch 106/500: loss = 0.6220
+Epoch 107/500: loss = 0.6315
+Epoch 108/500: loss = 0.6302
+Epoch 109/500: loss = 0.6357
+Epoch 110/500: loss = 0.6305
+  Eval → acc=0.417, f1=0.400, auc=0.358
+Epoch 111/500: loss = 0.6404
+Epoch 112/500: loss = 0.6251
+Epoch 113/500: loss = 0.6275
+Epoch 114/500: loss = 0.6254
+Epoch 115/500: loss = 0.6337
+Epoch 116/500: loss = 0.6386
+Epoch 117/500: loss = 0.6267
+Epoch 118/500: loss = 0.6185
+Epoch 119/500: loss = 0.6245
+Epoch 120/500: loss = 0.6268
+  Eval → acc=0.389, f1=0.353, auc=0.321
+Epoch 121/500: loss = 0.6245
+Epoch 122/500: loss = 0.6173
+Epoch 123/500: loss = 0.6169
+Epoch 124/500: loss = 0.6152
+Epoch 125/500: loss = 0.6142
+Epoch 126/500: loss = 0.6174
+Epoch 127/500: loss = 0.6126
+Epoch 128/500: loss = 0.6133
+Epoch 129/500: loss = 0.6097
+Epoch 130/500: loss = 0.6080
+  Eval → acc=0.611, f1=0.632, auc=0.602
+Epoch 131/500: loss = 0.6083
+Epoch 132/500: loss = 0.6089
+Epoch 133/500: loss = 0.6057
+Epoch 134/500: loss = 0.6075
+Epoch 135/500: loss = 0.6070
+Epoch 136/500: loss = 0.6054
+Epoch 137/500: loss = 0.6077
+Epoch 138/500: loss = 0.6065
+Epoch 139/500: loss = 0.6040
+Epoch 140/500: loss = 0.6054
+  Eval → acc=0.611, f1=0.611, auc=0.577
+Epoch 141/500: loss = 0.6055
+Epoch 142/500: loss = 0.6026
+Epoch 143/500: loss = 0.6030
+Epoch 144/500: loss = 0.6022
+Epoch 145/500: loss = 0.6028
+Epoch 146/500: loss = 0.6006
+Epoch 147/500: loss = 0.5999
+Epoch 148/500: loss = 0.6012
+Epoch 149/500: loss = 0.5995
+Epoch 150/500: loss = 0.6003
+  Eval → acc=0.611, f1=0.611, auc=0.614
+Epoch 151/500: loss = 0.5969
+Epoch 152/500: loss = 0.6014
+Epoch 153/500: loss = 0.5980
+Epoch 154/500: loss = 0.6006
+Epoch 155/500: loss = 0.5973
+Epoch 156/500: loss = 0.6013
+Epoch 157/500: loss = 0.6047
+Epoch 158/500: loss = 0.6103
+Epoch 159/500: loss = 0.6060
+Epoch 160/500: loss = 0.5975
+  Eval → acc=0.556, f1=0.579, auc=0.583
+Epoch 161/500: loss = 0.6004
+Epoch 162/500: loss = 0.6037
+Epoch 163/500: loss = 0.5958
+Epoch 164/500: loss = 0.5976
+Epoch 165/500: loss = 0.5943
+Epoch 166/500: loss = 0.5945
+Epoch 167/500: loss = 0.5937
+Epoch 168/500: loss = 0.5914
+Epoch 169/500: loss = 0.5924
+Epoch 170/500: loss = 0.5917
+  Eval → acc=0.556, f1=0.529, auc=0.574
+Epoch 171/500: loss = 0.5922
+Epoch 172/500: loss = 0.5931
+Epoch 173/500: loss = 0.5914
+Epoch 174/500: loss = 0.5902
+Epoch 175/500: loss = 0.5882
+Epoch 176/500: loss = 0.5884
+Epoch 177/500: loss = 0.5864
+Epoch 178/500: loss = 0.5880
+Epoch 179/500: loss = 0.5888
+Epoch 180/500: loss = 0.5874
+  Eval → acc=0.583, f1=0.571, auc=0.590
+Epoch 181/500: loss = 0.5868
+Epoch 182/500: loss = 0.5862
+Epoch 183/500: loss = 0.5859
+Epoch 184/500: loss = 0.5856
+Epoch 185/500: loss = 0.5837
+Epoch 186/500: loss = 0.5850
+Epoch 187/500: loss = 0.5841
+Epoch 188/500: loss = 0.5844
+Epoch 189/500: loss = 0.5828
+Epoch 190/500: loss = 0.5811
+  Eval → acc=0.583, f1=0.595, auc=0.596
+Epoch 191/500: loss = 0.5809
+Epoch 192/500: loss = 0.5844
+Epoch 193/500: loss = 0.5876
+Epoch 194/500: loss = 0.5826
+Epoch 195/500: loss = 0.5822
+Epoch 196/500: loss = 0.5891
+Epoch 197/500: loss = 0.5846
+Epoch 198/500: loss = 0.5922
+Epoch 199/500: loss = 0.5810
+Epoch 200/500: loss = 0.5860
+  Eval → acc=0.583, f1=0.571, auc=0.574
+Epoch 201/500: loss = 0.5788
+Epoch 202/500: loss = 0.5740
+Epoch 203/500: loss = 0.5810
+Epoch 204/500: loss = 0.5781
+Epoch 205/500: loss = 0.5788
+Epoch 206/500: loss = 0.5754
+Epoch 207/500: loss = 0.5879
+Epoch 208/500: loss = 0.5823
+Epoch 209/500: loss = 0.5782
+Epoch 210/500: loss = 0.5792
+  Eval → acc=0.611, f1=0.588, auc=0.577
+Epoch 211/500: loss = 0.5788
+Epoch 212/500: loss = 0.5877
+Epoch 213/500: loss = 0.5892
+Epoch 214/500: loss = 0.5856
+Epoch 215/500: loss = 0.5869
+Epoch 216/500: loss = 0.5856
+Epoch 217/500: loss = 0.5775
+Epoch 218/500: loss = 0.5784
+Epoch 219/500: loss = 0.5723
+Epoch 220/500: loss = 0.5709
+  Eval → acc=0.528, f1=0.514, auc=0.568
+Epoch 221/500: loss = 0.5692
+Epoch 222/500: loss = 0.5713
+Epoch 223/500: loss = 0.5682
+Epoch 224/500: loss = 0.5685
+Epoch 225/500: loss = 0.5704
+Epoch 226/500: loss = 0.5655
+Epoch 227/500: loss = 0.5678
+Epoch 228/500: loss = 0.5643
+Epoch 229/500: loss = 0.5673
+Epoch 230/500: loss = 0.5676
+  Eval → acc=0.583, f1=0.571, auc=0.577
+Epoch 231/500: loss = 0.5651
+Epoch 232/500: loss = 0.5650
+Epoch 233/500: loss = 0.5630
+Epoch 234/500: loss = 0.5631
+Epoch 235/500: loss = 0.5616
+Epoch 236/500: loss = 0.5646
+Epoch 237/500: loss = 0.5605
+Epoch 238/500: loss = 0.5668
+Epoch 239/500: loss = 0.5617
+Epoch 240/500: loss = 0.5679
+  Eval → acc=0.528, f1=0.514, auc=0.543
+Epoch 241/500: loss = 0.5661
+Epoch 242/500: loss = 0.5587
+Epoch 243/500: loss = 0.5631
+Epoch 244/500: loss = 0.5608
+Epoch 245/500: loss = 0.5601
+Epoch 246/500: loss = 0.5573
+Epoch 247/500: loss = 0.5572
+Epoch 248/500: loss = 0.5604
+Epoch 249/500: loss = 0.5593
+Epoch 250/500: loss = 0.5616
+  Eval → acc=0.611, f1=0.588, auc=0.586
+Epoch 251/500: loss = 0.5578
+Epoch 252/500: loss = 0.5598
+Epoch 253/500: loss = 0.5626
+Epoch 254/500: loss = 0.5579
+Epoch 255/500: loss = 0.5597
+Epoch 256/500: loss = 0.5588
+Epoch 257/500: loss = 0.5560
+Epoch 258/500: loss = 0.5611
+Epoch 259/500: loss = 0.5549
+Epoch 260/500: loss = 0.5559
+  Eval → acc=0.667, f1=0.647, auc=0.623
+Epoch 261/500: loss = 0.5540
+Epoch 262/500: loss = 0.5539
+Epoch 263/500: loss = 0.5509
+Epoch 264/500: loss = 0.5568
+Epoch 265/500: loss = 0.5600
+Epoch 266/500: loss = 0.5645
+Epoch 267/500: loss = 0.5580
+Epoch 268/500: loss = 0.5664
+Epoch 269/500: loss = 0.5589
+Epoch 270/500: loss = 0.5517
+  Eval → acc=0.583, f1=0.571, auc=0.580
+Epoch 271/500: loss = 0.5617
+Epoch 272/500: loss = 0.5522
+Epoch 273/500: loss = 0.5504
+Epoch 274/500: loss = 0.5489
+Epoch 275/500: loss = 0.5514
+Epoch 276/500: loss = 0.5519
+Epoch 277/500: loss = 0.5469
+Epoch 278/500: loss = 0.5462
+Epoch 279/500: loss = 0.5521
+Epoch 280/500: loss = 0.5493
+  Eval → acc=0.667, f1=0.647, auc=0.608
+Epoch 281/500: loss = 0.5481
+Epoch 282/500: loss = 0.5483
+Epoch 283/500: loss = 0.5520
+Epoch 284/500: loss = 0.5459
+Epoch 285/500: loss = 0.5500
+Epoch 286/500: loss = 0.5704
+Epoch 287/500: loss = 0.5686
+Epoch 288/500: loss = 0.5575
+Epoch 289/500: loss = 0.5451
+Epoch 290/500: loss = 0.5525
+  Eval → acc=0.667, f1=0.647, auc=0.627
+Epoch 291/500: loss = 0.5540
+Epoch 292/500: loss = 0.5434
+Epoch 293/500: loss = 0.5483
+Epoch 294/500: loss = 0.5493
+Epoch 295/500: loss = 0.5412
+Epoch 296/500: loss = 0.5410
+Epoch 297/500: loss = 0.5406
+Epoch 298/500: loss = 0.5422
+Epoch 299/500: loss = 0.5435
+Epoch 300/500: loss = 0.5416
+  Eval → acc=0.583, f1=0.545, auc=0.577
+Epoch 301/500: loss = 0.5436
+Epoch 302/500: loss = 0.5409
+Epoch 303/500: loss = 0.5408
+Epoch 304/500: loss = 0.5414
+Epoch 305/500: loss = 0.5372
+Epoch 306/500: loss = 0.5422
+Epoch 307/500: loss = 0.5437
+Epoch 308/500: loss = 0.5375
+Epoch 309/500: loss = 0.5369
+Epoch 310/500: loss = 0.5371
+  Eval → acc=0.611, f1=0.588, auc=0.602
+Epoch 311/500: loss = 0.5424
+Epoch 312/500: loss = 0.5379
+Epoch 313/500: loss = 0.5391
+Epoch 314/500: loss = 0.5359
+Epoch 315/500: loss = 0.5409
+Epoch 316/500: loss = 0.5401
+Epoch 317/500: loss = 0.5347
+Epoch 318/500: loss = 0.5404
+Epoch 319/500: loss = 0.5368
+Epoch 320/500: loss = 0.5353
+  Eval → acc=0.611, f1=0.611, auc=0.580
+Epoch 321/500: loss = 0.5353
+Epoch 322/500: loss = 0.5363
+Epoch 323/500: loss = 0.5381
+Epoch 324/500: loss = 0.5329
+Epoch 325/500: loss = 0.5309
+Epoch 326/500: loss = 0.5378
+Epoch 327/500: loss = 0.5310
+Epoch 328/500: loss = 0.5330
+Epoch 329/500: loss = 0.5327
+Epoch 330/500: loss = 0.5353
+  Eval → acc=0.583, f1=0.571, auc=0.593
+Epoch 331/500: loss = 0.5320
+Epoch 332/500: loss = 0.5310
+Epoch 333/500: loss = 0.5329
+Epoch 334/500: loss = 0.5355
+Epoch 335/500: loss = 0.5368
+Epoch 336/500: loss = 0.5318
+Epoch 337/500: loss = 0.5315
+Epoch 338/500: loss = 0.5317
+Epoch 339/500: loss = 0.5268
+Epoch 340/500: loss = 0.5297
+  Eval → acc=0.583, f1=0.545, auc=0.577
+Epoch 341/500: loss = 0.5267
+Epoch 342/500: loss = 0.5282
+Epoch 343/500: loss = 0.5261
+Epoch 344/500: loss = 0.5266
+Epoch 345/500: loss = 0.5412
+Epoch 346/500: loss = 0.5248
+Epoch 347/500: loss = 0.5284
+Epoch 348/500: loss = 0.5292
+Epoch 349/500: loss = 0.5306
+Epoch 350/500: loss = 0.5274
+  Eval → acc=0.639, f1=0.606, auc=0.611
+Epoch 351/500: loss = 0.5280
+Epoch 352/500: loss = 0.5253
+Epoch 353/500: loss = 0.5260
+Epoch 354/500: loss = 0.5271
+Epoch 355/500: loss = 0.5394
+Epoch 356/500: loss = 0.5429
+Epoch 357/500: loss = 0.5382
+Epoch 358/500: loss = 0.5326
+Epoch 359/500: loss = 0.5288
+Epoch 360/500: loss = 0.5261
+  Eval → acc=0.639, f1=0.606, auc=0.608
+Epoch 361/500: loss = 0.5268
+Epoch 362/500: loss = 0.5250
+Epoch 363/500: loss = 0.5222
+Epoch 364/500: loss = 0.5306
+Epoch 365/500: loss = 0.5251
+Epoch 366/500: loss = 0.5243
+Epoch 367/500: loss = 0.5208
+Epoch 368/500: loss = 0.5245
+Epoch 369/500: loss = 0.5211
+Epoch 370/500: loss = 0.5196
+  Eval → acc=0.611, f1=0.588, auc=0.583
+Epoch 371/500: loss = 0.5218
+Epoch 372/500: loss = 0.5290
+Epoch 373/500: loss = 0.5244
+Epoch 374/500: loss = 0.5225
+Epoch 375/500: loss = 0.5225
+Epoch 376/500: loss = 0.5172
+Epoch 377/500: loss = 0.5204
+Epoch 378/500: loss = 0.5188
+Epoch 379/500: loss = 0.5188
+Epoch 380/500: loss = 0.5207
+  Eval → acc=0.639, f1=0.629, auc=0.590
+Epoch 381/500: loss = 0.5183
+Epoch 382/500: loss = 0.5173
+Epoch 383/500: loss = 0.5201
+Epoch 384/500: loss = 0.5196
+Epoch 385/500: loss = 0.5185
+Epoch 386/500: loss = 0.5174
+Epoch 387/500: loss = 0.5226
+Epoch 388/500: loss = 0.5149
+Epoch 389/500: loss = 0.5183
+Epoch 390/500: loss = 0.5155
+  Eval → acc=0.583, f1=0.545, auc=0.586
+Epoch 391/500: loss = 0.5143
+Epoch 392/500: loss = 0.5179
+Epoch 393/500: loss = 0.5227
+Epoch 394/500: loss = 0.5244
+Epoch 395/500: loss = 0.5168
+Epoch 396/500: loss = 0.5157
+Epoch 397/500: loss = 0.5151
+Epoch 398/500: loss = 0.5126
+Epoch 399/500: loss = 0.5141
+Epoch 400/500: loss = 0.5148
+  Eval → acc=0.556, f1=0.529, auc=0.556
+Epoch 401/500: loss = 0.5131
+Epoch 402/500: loss = 0.5133
+Epoch 403/500: loss = 0.5137
+Epoch 404/500: loss = 0.5151
+Epoch 405/500: loss = 0.5127
+Epoch 406/500: loss = 0.5241
+Epoch 407/500: loss = 0.5148
+Epoch 408/500: loss = 0.5211
+Epoch 409/500: loss = 0.5151
+Epoch 410/500: loss = 0.5176
+  Eval → acc=0.556, f1=0.529, auc=0.568
+Epoch 411/500: loss = 0.5140
+Epoch 412/500: loss = 0.5165
+Epoch 413/500: loss = 0.5194
+Epoch 414/500: loss = 0.5205
+Epoch 415/500: loss = 0.5081
+Epoch 416/500: loss = 0.5144
+Epoch 417/500: loss = 0.5106
+Epoch 418/500: loss = 0.5107
+Epoch 419/500: loss = 0.5138
+Epoch 420/500: loss = 0.5100
+  Eval → acc=0.556, f1=0.556, auc=0.580
+Epoch 421/500: loss = 0.5067
+Epoch 422/500: loss = 0.5075
+Epoch 423/500: loss = 0.5070
+Epoch 424/500: loss = 0.5092
+Epoch 425/500: loss = 0.5156
+Epoch 426/500: loss = 0.5096
+Epoch 427/500: loss = 0.5106
+Epoch 428/500: loss = 0.5063
+Epoch 429/500: loss = 0.5031
+Epoch 430/500: loss = 0.5107
+  Eval → acc=0.639, f1=0.606, auc=0.590
+Epoch 431/500: loss = 0.5058
+Epoch 432/500: loss = 0.5047
+Epoch 433/500: loss = 0.5114
+Epoch 434/500: loss = 0.5034
+Epoch 435/500: loss = 0.5065
+Epoch 436/500: loss = 0.5083
+Epoch 437/500: loss = 0.5085
+Epoch 438/500: loss = 0.5125
+Epoch 439/500: loss = 0.5028
+Epoch 440/500: loss = 0.5076
+  Eval → acc=0.583, f1=0.611, auc=0.580
+Epoch 441/500: loss = 0.5061
+Epoch 442/500: loss = 0.5052
+Epoch 443/500: loss = 0.5112
+Epoch 444/500: loss = 0.5199
+Epoch 445/500: loss = 0.5098
+Epoch 446/500: loss = 0.5008
+Epoch 447/500: loss = 0.5046
+Epoch 448/500: loss = 0.5091
+Epoch 449/500: loss = 0.5060
+Epoch 450/500: loss = 0.5051
+  Eval → acc=0.583, f1=0.571, auc=0.571
+Epoch 451/500: loss = 0.5010
+Epoch 452/500: loss = 0.5033
+Epoch 453/500: loss = 0.5123
+Epoch 454/500: loss = 0.5224
+Epoch 455/500: loss = 0.5098
+Epoch 456/500: loss = 0.5083
+Epoch 457/500: loss = 0.5089
+Epoch 458/500: loss = 0.5049
+Epoch 459/500: loss = 0.4972
+Epoch 460/500: loss = 0.5003
+  Eval → acc=0.528, f1=0.485, auc=0.534
+Epoch 461/500: loss = 0.5100
+Epoch 462/500: loss = 0.5058
+Epoch 463/500: loss = 0.5030
+Epoch 464/500: loss = 0.5098
+Epoch 465/500: loss = 0.5074
+Epoch 466/500: loss = 0.5058
+Epoch 467/500: loss = 0.5058
+Epoch 468/500: loss = 0.5240
+Epoch 469/500: loss = 0.5156
+Epoch 470/500: loss = 0.5067
+  Eval → acc=0.583, f1=0.571, auc=0.596
+Epoch 471/500: loss = 0.5049
+Epoch 472/500: loss = 0.5101
+Epoch 473/500: loss = 0.4988
+Epoch 474/500: loss = 0.4982
+Epoch 475/500: loss = 0.4989
+Epoch 476/500: loss = 0.4961
+Epoch 477/500: loss = 0.4980
+Epoch 478/500: loss = 0.4967
+Epoch 479/500: loss = 0.4925
+Epoch 480/500: loss = 0.4979
+  Eval → acc=0.528, f1=0.485, auc=0.509
+Epoch 481/500: loss = 0.5006
+Epoch 482/500: loss = 0.4984
+Epoch 483/500: loss = 0.4957
+Epoch 484/500: loss = 0.4944
+Epoch 485/500: loss = 0.5040
+Epoch 486/500: loss = 0.4949
+Epoch 487/500: loss = 0.4937
+Epoch 488/500: loss = 0.4964
+Epoch 489/500: loss = 0.4937
+Epoch 490/500: loss = 0.4950
+  Eval → acc=0.639, f1=0.606, auc=0.571
+Epoch 491/500: loss = 0.4953
+Epoch 492/500: loss = 0.5076
+Epoch 493/500: loss = 0.5037
+Epoch 494/500: loss = 0.5081
+Epoch 495/500: loss = 0.5180
+Epoch 496/500: loss = 0.5112
+Epoch 497/500: loss = 0.5059
+Epoch 498/500: loss = 0.4994
+Epoch 499/500: loss = 0.4961
+Epoch 500/500: loss = 0.4960
+  Eval → acc=0.583, f1=0.571, auc=0.552
+Saved loss history to ./Results_32by32/03a_GPU_dataset250_epochs500/depth07/loss_history.csv
+
+All test results saved in: ./Results_32by32/03a_GPU_dataset250_epochs500/depth07
+Test metrics: {
+  "accuracy": 0.4473684210526316,
+  "precision": 0.45,
+  "recall": 0.47368421052631576,
+  "f1_score": 0.46153846153846156,
+  "auc": 0.407202216066482,
+  "training_time_sec": 263190.5802745819,
+  "memory_usage_kb": 48744,
+  "data_loading_time_sec": 263194.7156133652,
+  "num_qubits": 11,
+  "num_samples_test": 38,
+  "num_layers": 7
+}

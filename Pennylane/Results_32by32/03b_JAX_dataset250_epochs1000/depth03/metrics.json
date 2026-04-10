@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.5,
+  "precision": 0.5,
+  "recall": 0.42105263157894735,
+  "f1_score": 0.45714285714285713,
+  "auc": 0.5263157894736842,
+  "training_time_sec": 60.051727294921875,
+  "memory_usage_kb": 1490396,
+  "data_loading_time_sec": 63.09564566612244,
+  "num_qubits": 11,
+  "num_samples_test": 38,
+  "num_layers": 3
+}

@@ -1,0 +1,17 @@
+{
+  "accuracy": 0.9609375,
+  "precision": 0.9682539682539683,
+  "recall": 0.953125,
+  "f1_score": 0.9606299212598425,
+  "auc": 0.997802734375,
+  "best_train_loss": 0.07583061419427395,
+  "training_time_sec": 163.44264602661133,
+  "epochs_completed": 3000,
+  "config": {
+    "num_layers": 7,
+    "lr": 0.05,
+    "batch_size": 32,
+    "opt_name": "adam",
+    "img_size": 16
+  }
+}

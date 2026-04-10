@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.90625,
+  "precision": 0.9642857142857143,
+  "recall": 0.84375,
+  "f1_score": 0.9,
+  "auc": 0.961181640625,
+  "best_train_loss": 0.08549704845063388,
+  "training_time_sec": 2665.141135454178,
+  "epochs_completed": 10000,
+  "config": {
+    "num_layers": 4,
+    "lr": 0.05,
+    "batch_size": 32,
+    "img_size": 16
+  }
+}
